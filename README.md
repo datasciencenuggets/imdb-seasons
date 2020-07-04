@@ -18,7 +18,8 @@ If you are beginner with no programming knowledge to do scraping you can do the 
 2) Data Exploration: Once you have extracted the data of a given series do some EDA via program of your choice on the data you just collected. Ex:Your results could possibly give great insights on the series or answers to simple questions like highest rated episode or lowest rated episode. Highest rated season etc. These are just examples and this excercise is open for everyones thoughts. Be creative.
 3) Data Visualization:Finally represent the data in a visualization either similar to the picture or a visualization of your own. You can use any tool of your choice. (python,r,powerbi, tableau etc.)
 
-imdb_weekend_hackathon.png
+![imdb image](imdb_weekend_hackathon.png)
+
 
 Dont worry if you dont know about working on few of the areas above. Or you are only specialized in just one skill. For the rest you can do manually. Example: If you are just a powerbi expert and no idea on python or r you can collect data manually and complete the rest of the steps of eda and visualization.
 
